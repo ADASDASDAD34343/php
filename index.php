@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>PHP</title>
-  </head>
-  <body>
 <?php
-    echo phpinfo();   
+echo "TimAI2";
 ?>
-  </body>
-</html>
